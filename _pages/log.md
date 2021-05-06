@@ -44,5 +44,24 @@ title: IMMERSE Log
         MAC Solutions-Listen before talk (LBT) and Duty cycle reduction  
     NAP Handbook of Freq...  
     Green Bay Radio Observatory information  
+    Started re-installing GNURadio  
+    Began work on Software-Defined Radio Guide  
 * **Wednesday**:  
+    More information on radio observatories and interference regulations  
+    Filters & shift keying research  
+    Debug gnuradio installation  
+    Computing bootcamp-make  
+* **Thursday**:  
+    Shop training for mirror work  
+    Fixed GNURadio installation & updated installation guide  
+* **Friday**:  
+
+***
+### Week 3: May 10, 2021
+
+* **Monday**:  
+* **Tuesday**:  
+* **Wednesday**:  
+* **Thursday**:  
+* **Friday**:  
 
