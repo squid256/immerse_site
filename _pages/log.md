@@ -65,9 +65,9 @@ title: IMMERSE Log
 ### Week 3: May 10, 2021
 
 * **Monday**:  
-    USRP/UHD software install
-    Spectrum Sharing meeting
-    Computing bootcamp - python
+    USRP/UHD software install  
+    Spectrum Sharing meeting  
+    Computing bootcamp - python  
 * **Tuesday**:  
 * **Wednesday**:  
 * **Thursday**:  
