@@ -8,7 +8,7 @@ title: IMMERSE Log
 * **Monday**:  
     Helped set up new lab  
     Met with spectrum-sharing group to get introduced to basics  
-    Computing bootcamp-Intro  
+    Computing bootcamp - Intro  
 * **Tuesday**:  
     Independent work to become familiar with Software Defined Radio (SDR) and spectrum-sharing issue  
         Tutorial videos from HackRF  
@@ -19,7 +19,8 @@ title: IMMERSE Log
 * **Wednesday**:  
     More HackRF tutuorial videos (Complex numbers)  
     Intro to Python in Jupyter Notebook  
-    IMMERSE Presentations, Broader Impact meeting (Intro to Magic Mirror project), bootcamp-Git  
+    IMMERSE Presentations, Broader Impact meeting (Intro to Magic Mirror project)  
+    Computing bootcamp - Git  
     Began work on website  
 * **Thursday**:   
     Completed HackRF tutorial videos  
@@ -27,7 +28,7 @@ title: IMMERSE Log
         Sampling for high-frequency signals
 * **Friday**:  
     More work on understanding spectrum-sharing problem  
-    Computing bootcamp-GitHub  
+    Computing bootcamp - GitHub  
     Spectrum Sharing for InterTechnology Coexistence  
 
 ***
@@ -37,7 +38,7 @@ title: IMMERSE Log
     Continued video SS for InterTech Coex
     On-Off Noise Power Communication paper  
     National Academies Press Handbook of Frequency Allocations and Spectrum Protection for Scientific Uses  
-    Computing bootcamp-Visual Studio Code  
+    Computing bootcamp - Visual Studio Code  
 * **Tuesday**:  
     Impulse/delta function in time and frequency domain   
     Finished Part 2 SS for InterTech Coex  
@@ -50,16 +51,23 @@ title: IMMERSE Log
     More information on radio observatories and interference regulations  
     Filters & shift keying research  
     Debug gnuradio installation  
-    Computing bootcamp-make  
+    IMMERSE Presentations & more discussion on magic mirror project + NET Lab decoration
+    Computing bootcamp - make  
 * **Thursday**:  
     Shop training for mirror work  
     Fixed GNURadio installation & updated installation guide  
 * **Friday**:  
+    Fixed magic mirror frame  
+    Article: The Radio Frequency Spectrum and Weather, Water, and Climate  
+    Computing bootcamp - cmake  
 
 ***
 ### Week 3: May 10, 2021
 
 * **Monday**:  
+    USRP/UHD software install
+    Spectrum Sharing meeting
+    Computing bootcamp - python
 * **Tuesday**:  
 * **Wednesday**:  
 * **Thursday**:  
