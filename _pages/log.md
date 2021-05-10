@@ -51,7 +51,7 @@ title: IMMERSE Log
     More information on radio observatories and interference regulations  
     Filters & shift keying research  
     Debug gnuradio installation  
-    IMMERSE Presentations & more discussion on magic mirror project + NET Lab decoration
+    IMMERSE Presentations & more discussion on magic mirror project + NET Lab decoration  
     Computing bootcamp - make  
 * **Thursday**:  
     Shop training for mirror work  
