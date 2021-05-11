@@ -69,6 +69,10 @@ title: IMMERSE Log
     Spectrum Sharing meeting  
     Computing bootcamp - python  
 * **Tuesday**:  
+    Tx work in GNURadio  
+    Binary decoding iClicker  
+    Worked on Understanding SDRs article  
+    Python Practice - command line arguments
 * **Wednesday**:  
 * **Thursday**:  
 * **Friday**:  
