@@ -74,6 +74,10 @@ title: IMMERSE Log
     Worked on Understanding SDRs article  
     Python Practice - command line arguments
 * **Wednesday**:  
+    More Tx work  
+    IMMERSE Presentations & broader impact - magic mirror and NET Lab sign soldering  
+    Computing bootcamp - Python, virtual environments, and argument parsing  
+    Tx file parsing  
 * **Thursday**:  
 * **Friday**:  
 
