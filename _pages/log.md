@@ -83,4 +83,29 @@ title: IMMERSE Log
     * Wrote IMMERSE Proposal  
     * Started work on 7-seg display project  
 * **Friday**:  
-    
+    * Re-read ONPC paper  
+    * Computing bootcamp - Python packages numpy, matplotlib, pandas  
+
+***
+### Week 4: May 17, 2021
+
+* **Monday**:  
+    * On-off keying implementation in GNU Radio  
+    * Computing bootcamp - pytest, doctest, googletest
+* **Tuesday**:  
+    * Revision of On-off keying implementation
+    * 7-seg display test
+* **Wednesday**:  
+* **Thursday**:  
+* **Friday**:  
+
+***
+###
+
+* **Monday**:  
+* **Tuesday**:  
+* **Wednesday**:  
+* **Thursday**:  
+* **Friday**:  
+
+
