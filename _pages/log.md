@@ -96,16 +96,59 @@ title: IMMERSE Log
     * Revision of On-off keying implementation
     * 7-seg display test
 * **Wednesday**:  
+    * ONPC - understanding rank transformation and how it increased data detection  
+    * Efficient On-Off Keying Underwater Acoustic Communication for Seafloor Observation Networks (2020)  
+    * Computing bootcamp - Doxygen, sphinx  
 * **Thursday**:  
+    * Creating LED-display PCB schematic  
 * **Friday**:  
+    * Work on PCB  
+    * Computing bootcamp - docker containers  
 
 ***
-###
+### Week 5: May 24, 2021
 
 * **Monday**:  
+    * Improved schematic and started board layout  
+    * IMMERSE Presentation Preparation  
 * **Tuesday**:  
+    * PCB design  
 * **Wednesday**:  
+    * Absent  
 * **Thursday**:  
+    * Absent  
 * **Friday**:  
+    * Absent  
 
+***
+### Week 6: May 31, 2021
 
+* **Monday**:  
+    * Absent  
+* **Tuesday**:  
+    * Absent  
+* **Wednesday**:  
+    * Absent  
+* **Thursday**:  
+    * Absent  
+* **Friday**:  
+    * Sent sample 2x2 PCB design to shop  
+
+***
+### Week 7: June 7, 2021
+
+* **Monday**:  
+    * SDR Receiver Using Commodity WiFi via Physical-Layer Signal Reconstruction  
+    * Efficient OOK paper  
+    * Fixed OOK spectral efficiency using interpolation, FIR filter, and moving average  
+    * Work on presentation  
+* **Tuesday**:  
+    * Fine-tuned OOK spectral efficiency system  
+    * Reviewed presentation with Dr. Lundrigan  
+    * Read from papers  
+* **Wednesday**:  
+    * stuff  
+* **Thursday**:  
+    * stuff  
+* **Friday**:  
+    * stuff  
