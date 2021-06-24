@@ -147,8 +147,43 @@ title: IMMERSE Log
     * Reviewed presentation with Dr. Lundrigan  
     * Read from papers  
 * **Wednesday**:  
-    * stuff  
+    * Revised and completed IMMERSE presentation  
 * **Thursday**:  
-    * stuff  
+    * Absent  
 * **Friday**:  
-    * stuff  
+    * Absent  
+    * Reviewed completed PCB with Chris  
+
+***
+### Week 8: June 14, 2021
+
+* **Monday**:  
+    * Revised PCB design  
+* **Tuesday**:  
+    * Revised PCB  
+    * Submitted completed 2x2 PCB redesign to ECEn shop
+* **Wednesday**:  
+    * IMMERSE Presentations  
+    * Computing bootcamp - Networking  
+* **Thursday**:  
+    * Absent due to illness  
+* **Friday**:  
+    * Soldered redesigned 2x2 PCB  
+
+***
+### Week 9: June 21, 2021
+
+* **Monday**:  
+    * Completed PCB revisions  
+    * Began work on ONPC transmitter using Python & GNU Radio  
+* **Tuesday**:  
+    * Absent  
+    * Approved parts for PCB construction  
+* **Wednesday**:  
+    * Completed ONPC transmitter translation into python  
+    * IMMERSE Presentations  
+    * Computing bootcamp - Wireless networking  
+* **Thursday**:  
+    * Successful SSH into WiFi router and recorded ONPC transmission from USRP  
+* **Friday**:  
+    * TBD  
