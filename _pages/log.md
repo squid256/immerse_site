@@ -186,4 +186,26 @@ title: IMMERSE Log
 * **Thursday**:  
     * Successful SSH into WiFi router and recorded ONPC transmission from USRP  
 * **Friday**:  
+    * More On-Off Keying experimentation  
+    * Worked on ONPC transmitter translation
+
+***
+### Week 10: June 28, 2021
+
+* **Monday**:  
+    * Completed transmitter translation  
+    * Ran ONPC tests  
+    * Successfully received ~4 symbols  
+    * Began research into Powder network  
+* **Tuesday**:  
+    * Accessed Powder network nodes  
+    * Created simple documentation on node setup and configuration  
+    * Updated website  
+* **Wednesday**:  
+    * ---TBD---  
+    * IMMERSE Presentations  
+    * Computing bootcamp - Networking  
+* **Thursday**:  
+    * TBD  
+* **Friday**:  
     * TBD  
