@@ -202,10 +202,10 @@ title: IMMERSE Log
     * Created simple documentation on node setup and configuration  
     * Updated website  
 * **Wednesday**:  
-    * ---TBD---  
-    * IMMERSE Presentations  
-    * Computing bootcamp - Networking  
+    * Worked on Configuring Powder Profile  
+    * Created Powder Instructions  
 * **Thursday**:  
-    * TBD  
+    * Almost completed Powder Profile configuration  
+    * Fixed documentation  
 * **Friday**:  
     * TBD  
