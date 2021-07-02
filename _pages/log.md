@@ -208,4 +208,19 @@ title: IMMERSE Log
     * Almost completed Powder Profile configuration  
     * Fixed documentation  
 * **Friday**:  
-    * TBD  
+    * Completed Powder Profile configuration  
+    * Read from Radar and Communication Spectrum Sharing  
+
+***
+### Week 11: July 5, 2021
+
+* **Monday**:  
+    * 5  
+* **Tuesday**:  
+    * 6  
+* **Wednesday**:  
+    * 7  
+* **Thursday**:  
+    * 8  
+* **Friday**:  
+    * 9  
