@@ -215,12 +215,29 @@ title: IMMERSE Log
 ### Week 11: July 5, 2021
 
 * **Monday**:  
-    * 5  
+    * Absent, Academic Holiday  
 * **Tuesday**:  
-    * 6  
+    * Soldered first final PCB  
+    * Tested GNURadio on Powder network  
+    * Began studying Bluetooth protocol patterns  
 * **Wednesday**:  
-    * 7  
+    * More Powder network stuff  
 * **Thursday**:  
-    * 8  
+    * Figured out how to get RSSI values from ESP8266  
+    * Arduino and configuring for PCB  
 * **Friday**:  
-    * 9  
+    * Testing ONPC transmitter/receiver on Powder  
+
+***
+### Week 12: July 12, 2021
+
+* **Monday**:  
+    * 1 <soldering party>  
+* **Tuesday**:  
+    * 1  
+* **Wednesday**:  
+    * 1 <IMMERSE Presentations, etc.>  
+* **Thursday**:  
+    * 1  
+* **Friday**:  
+    * 1  
