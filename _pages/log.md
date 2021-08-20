@@ -232,12 +232,13 @@ title: IMMERSE Log
 ### Week 12: July 12, 2021
 
 * **Monday**:  
-    * 1 <soldering party>  
+    * Soldering  
 * **Tuesday**:  
-    * 1  
+    * Soldering  
 * **Wednesday**:  
-    * 1 <IMMERSE Presentations, etc.>  
+    * Soldering, debugging  
+    * IMMERSE Presentations, etc.  
 * **Thursday**:  
-    * 1  
+    * Debugging  
 * **Friday**:  
-    * 1  
+    * Soldering  
